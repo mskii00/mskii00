@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @mskii00
-- 👀 I’m interested in being really good at programing!
-- 🌱 I’m currently learning python xd.
-- 💞️ I’m looking to collaborate on solving easy problems.
-- ⚡ Fun fact: im 15
+noob
